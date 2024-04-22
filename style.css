@@ -1,0 +1,72 @@
+
+header{
+	background-color: lightskyblue;
+}
+article{
+	display: flex;
+	flex-wrap: wrap;
+	background-color: deepskyblue;
+}
+section{
+	border: 2px dotted lightblue;
+	width: 150px;
+}
+img{
+	width: 150px;
+}
+h2{
+	line-height: 1.5;
+	word-break: keep-all;
+}
+h1{
+	text-align: center;
+}
+
+.q1,
+.q2,
+.q3,
+.q4,
+.q5,
+.q6,
+.q7,
+.q8,
+.q8,
+.q10,
+.w1,
+.w2,
+.w3,
+.w4,
+.w5,
+.w6,
+.w7,
+.w8,
+.w9,
+.w10{
+	line-height: 1.9;
+	word-break: keep-all;
+}
+
+.me{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+    position: absolute;
+    top: 100px;
+	left: 100px;
+	background-color: skyblue;
+	width: 200px;
+	height: 200px;
+}
+
+.design{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: absolute;
+	top: 100px;
+	left: 400px;
+	background-color: deepskyblue;
+	width: 200px;
+	height: 200px;
+	border-right: 200px;
+}
