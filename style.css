@@ -20,15 +20,6 @@ h2{
 h1{
 	text-align: center;
 }
-@media screen and (max-width: 900px){
-	body{
-		font-size: 20px;
-		width: 500px;
-	}
-
-	img{
-		max-width: 100%;
-	}
 
 .q1,
 .q2,
