@@ -86,3 +86,9 @@ h1{
 		width: 500px;
 	}
 }
+
+@media screen and (max-width: 900px){
+	html{
+		font-size: 18px;
+	}
+}
