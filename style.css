@@ -69,3 +69,10 @@ h1{
 	height: 200px;
 	border-right: 200px;
 }
+
+@media screen and (max-width: 900px){
+	p{
+		font-size: 30px;
+		width: 500px;
+	}
+}
