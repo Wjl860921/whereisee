@@ -22,6 +22,14 @@ h1{
 	text-align: center;
 }
 
+@media screen and (max-width: 900px){
+	p{
+		background-color: seagreen;
+		font-size: 30px;
+		width: 500px;
+	}
+
+
 .q1,
 .q2,
 .q3,
